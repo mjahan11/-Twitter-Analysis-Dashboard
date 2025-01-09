@@ -1,12 +1,8 @@
 
 # Twitter Analysis Dashboard
 Twitter Analysis Report
-My Power BI Twitter Analysis Report, which is based on tweets from June 2020 to September 2020.
-The information was gathered from Data World Datasets. The Power BI tool was utilized for analysis, data manipulation for measurements, and the creation of suitable visuals. If you have any suggestions for improvement, please remark.
-Datasets from Data World
-BI Tool: Power BI
-Kaggle Link: https://www.kaggle.com/datasets/musratjahan1/twitter-analysis-report
 
+This project presents a Twitter Analytics Dashboard created with Power BI, designed to offer detailed insights into tweet data. The dashboard focuses on key engagement metrics such as impressions, media views, and user interactions through clicks. It features a range of interactive visualizations, allowing users to explore tweet performance from multiple perspectives.It involved extensive data preprocessing, cleaning, and visualization using Power BI, DAX, and Power Query, with a strong emphasis on real-time filtering and interactivity for enhanced data analysis. This report outlines the processes, tools, challenges, and results encountered throughout the development of the dashboard, highlighting key learnings and skills gained during the project."
  
 Principal Findings from This Dataset:
 1- What is the monthly tweet count?
