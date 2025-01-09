@@ -5,7 +5,7 @@ This project presents a Twitter Analytics Dashboard created with Power BI, desig
 
 - <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=pizza">Dataset</a>
 # Dashboard View
-![image](https://github.com/user-attachments/assets/1f4e586d-51c1-4ee2-a02c-552c99fa9b5d)
+![image](https://github.com/user-attachments/assets/13a25d61-0f8d-4c6d-868e-075985c9ca4c)
    <a href="https://github.com/mjahan11/Pizza-Place-Analysis-Dashboard/blob/main/Pizza%20Place%20Report.pbix ">Click to Download pbix file </a>
  
 # Principal Findings from This Dataset:
