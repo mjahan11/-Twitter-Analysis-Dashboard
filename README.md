@@ -12,25 +12,33 @@ This project presents a Twitter Analytics Dashboard created with Power BI, desig
 
 1- What is the monthly tweet count?
 
-In the month of June tweet count
+In the month of June tweet count 223.
 
 ![image](https://github.com/user-attachments/assets/058067f6-12f5-4b0c-befa-1af9d8c8aa10)
   
 2- Based on the user click, what is the Average impression?
 
+In the month of June an Average impression 595.
+
 ![image](https://github.com/user-attachments/assets/bdf5da4c-032a-4217-9252-303984c9aa43)
 
 3- What is the average Engagement Rate?
 
+In the month of June an Average Engagement Rate 3.46%.
+
 ![image](https://github.com/user-attachments/assets/f49251b3-75e6-4873-9fb4-31ebd7c0ad9e)
 
 4- What is the average Media Engagement?
+
+In the month of June an Average Media Engagement 13.
 
 
 ![image](https://github.com/user-attachments/assets/df4c6311-1efe-460e-9f5a-65fcbb004c44)
 
 
 5- How many Likes are there on average?
+
+The average number of likes in the month of June is 4.
 
 ![image](https://github.com/user-attachments/assets/26bfede3-ef13-4d81-981c-28e612071b2f)
 
