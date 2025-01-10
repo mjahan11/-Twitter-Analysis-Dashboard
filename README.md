@@ -12,25 +12,25 @@ This project presents a Twitter Analytics Dashboard created with Power BI, desig
 
 1- What is the monthly tweet count?
 
-In the month of June tweet count 223.
+The tweet count for the month of June is 223.
 
 ![image](https://github.com/user-attachments/assets/058067f6-12f5-4b0c-befa-1af9d8c8aa10)
   
 2- Based on the user click, what is the Average impression?
 
-In the month of June an Average impression 595.
+The average impression in the month of June is 595.
 
 ![image](https://github.com/user-attachments/assets/bdf5da4c-032a-4217-9252-303984c9aa43)
 
 3- What is the average Engagement Rate?
 
-In the month of June an Average Engagement Rate 3.46%.
+The average engagement rate in the month of June is 3.46%.
 
 ![image](https://github.com/user-attachments/assets/f49251b3-75e6-4873-9fb4-31ebd7c0ad9e)
 
 4- What is the average Media Engagement?
 
-In the month of June an Average Media Engagement 13.
+The average media engagement in the month of June is 13.
 
 
 ![image](https://github.com/user-attachments/assets/df4c6311-1efe-460e-9f5a-65fcbb004c44)
@@ -44,17 +44,25 @@ The average number of likes in the month of June is 4.
 
  6 - Which 10 tweets received the most URL clicks?
 
+ In the month of June, 10 tweets received the highest number of URL clicks.
+
  ![image](https://github.com/user-attachments/assets/8c9259b3-e54e-4993-8d19-b382a281f9d9)
  
  7- How many tweets were sent during the weekday?
+
+ In the month of June, here is a list of tweets that were posted during the weekdays.
 
  ![image](https://github.com/user-attachments/assets/ca434330-73b9-4461-bfc0-026f6a3ce28d)
  
  8- How are media views and media engagement trending?
 
+ Media views and media engagement trends in the month of June.
+
  ![image](https://github.com/user-attachments/assets/5eaff518-979f-4373-859a-8a46a62a349b)
 
  9- What is the current trend in engagement versus media engagement?
+
+ Comparison of the current trend in engagement versus media engagement for the month of June.
 
  ![image](https://github.com/user-attachments/assets/27cbf7b9-fd85-43b5-977d-f247025476e6)
 
