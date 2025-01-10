@@ -16,16 +16,36 @@ This project presents a Twitter Analytics Dashboard created with Power BI, desig
   
 2- Based on the user click, what is the Average impression?
 
+![image](https://github.com/user-attachments/assets/bdf5da4c-032a-4217-9252-303984c9aa43)
+
 3- What is the average Engagement Rate?
+
+![image](https://github.com/user-attachments/assets/f49251b3-75e6-4873-9fb4-31ebd7c0ad9e)
 
 4- What is the average Media Engagement?
 
+
+![image](https://github.com/user-attachments/assets/df4c6311-1efe-460e-9f5a-65fcbb004c44)
+
+
 5- How many Likes are there on average?
 
+![image](https://github.com/user-attachments/assets/26bfede3-ef13-4d81-981c-28e612071b2f)
+
  6 - Which 10 tweets received the most URL clicks?
+
+ ![image](https://github.com/user-attachments/assets/8c9259b3-e54e-4993-8d19-b382a281f9d9)
  
  7- How many tweets were sent during the weekday?
+
+ ![image](https://github.com/user-attachments/assets/ca434330-73b9-4461-bfc0-026f6a3ce28d)
  
  8- How are media views and media engagement trending?
- 
+
+ ![image](https://github.com/user-attachments/assets/5eaff518-979f-4373-859a-8a46a62a349b)
+
  9- What is the current trend in engagement versus media engagement?
+
+ ![image](https://github.com/user-attachments/assets/27cbf7b9-fd85-43b5-977d-f247025476e6)
+
+ 
