@@ -11,6 +11,7 @@ This project presents a Twitter Analytics Dashboard created with Power BI, desig
 # Principal Findings from This Dataset:
 
 1- What is the monthly tweet count?
+In the month of June tweet count
 
 ![image](https://github.com/user-attachments/assets/058067f6-12f5-4b0c-befa-1af9d8c8aa10)
   
